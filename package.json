@@ -1,0 +1,16 @@
+{
+  "name": "com.henrijeandel.createderivedscript",
+  "version": "1.0.0",
+  "displayName": "Create Derived Script",
+  "description": "A Unity package allowing to create a script with a class deriving from the selected script.",
+  "keywords": [
+    "Scripting",
+    "Inheritance",
+    "Tool"
+  ],
+  "author": {
+    "name": "Henri Jeandel",
+    "email": "henri.jeandel@gmail.com",
+    "url": "https://github.com/HenriJeandel/"
+  }
+}
